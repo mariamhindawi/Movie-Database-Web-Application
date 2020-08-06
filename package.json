@@ -14,5 +14,14 @@
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "express-session": "^1.17.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariamhindawi/Movie-Database-Web-Application.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariamhindawi/Movie-Database-Web-Application/issues"
+  },
+  "homepage": "https://github.com/mariamhindawi/Movie-Database-Web-Application#readme"
 }
